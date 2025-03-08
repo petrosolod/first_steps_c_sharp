@@ -1,0 +1,15 @@
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\bin\Debug\net9.0\first_steps_c_sharp.exe
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\bin\Debug\net9.0\first_steps_c_sharp.deps.json
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\bin\Debug\net9.0\first_steps_c_sharp.runtimeconfig.json
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\bin\Debug\net9.0\first_steps_c_sharp.dll
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\bin\Debug\net9.0\first_steps_c_sharp.pdb
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.AssemblyInfoInputs.cache
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.AssemblyInfo.cs
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.sourcelink.json
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.dll
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\refint\first_steps_c_sharp.dll
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.pdb
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\first_steps_c_sharp.genruntimeconfig.cache
+C:\Users\jaike\Desktop\first_steps_c_sharp\first_steps_c_sharp\obj\Debug\net9.0\ref\first_steps_c_sharp.dll

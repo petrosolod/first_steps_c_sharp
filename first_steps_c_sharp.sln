@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_steps_c_sharp", "first_steps_c_sharp.csproj", "{7656394E-C6E4-449F-8BE2-EA6072994EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|x64.Build.0 = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Debug|x86.Build.0 = Debug|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|x64.ActiveCfg = Release|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|x64.Build.0 = Release|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|x86.ActiveCfg = Release|Any CPU
+		{7656394E-C6E4-449F-8BE2-EA6072994EFA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
