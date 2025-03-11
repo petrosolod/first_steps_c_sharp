@@ -1,17 +1,26 @@
-﻿
-Random dice = new Random();
-int roll1 = dice.Next();
-int roll2 = dice.Next(101);
-int roll3 = dice.Next(50, 101);
+﻿Random random = new Random();
+int daysUntilExpiration = random.Next(12);
+int discountPercentage = 0;
 
-
-Console.WriteLine($"First roll: {roll1}");
-Console.WriteLine($"Second roll: {roll2}");
-Console.WriteLine($"Third roll: {roll3}");
-
-
-int first = 500;
-int second = 600;
-int bigest = Math.Max(first, second);
-
-Console.WriteLine($"The bigests number is {bigest}");
+if (daysUntilExpiration >= 10)
+{
+    if (daysUntilExpiration >= 10)
+    discountPercentage +=5;
+    Console.WriteLine($"Your subscription will expire soon.\nRenew now and save {discountPercentage}%!");
+}
+else if (daysUntilExpiration >= 5)
+{
+    if (daysUntilExpiration >= 5)
+    daysUntilExpiration += 10;
+    Console.WriteLine($"Your subscription expires in 5 days!\nRenew now! and save {discountPercentage}%!");
+}
+else if(daysUntilExpiration == 1)
+{
+    if (daysUntilExpiration == 1)
+    discountPercentage += 20;
+    Console.WriteLine($"Your subscription expires within a day!\nRenew now and save {discountPercentage}% !");
+}
+else
+{
+    Console.WriteLine("Your subscription has expired.");
+}
