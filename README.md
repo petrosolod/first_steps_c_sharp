@@ -112,4 +112,6 @@ I am going to study C# with Microsoft Copylot help and books, see you in one yea
 	    - Practice explaining your projects and code during interviews.
 	    - Use LinkedIn to network with professionals in your field.
 
-Не повторюйся за іншими, твій шлях не має привести тебе до їх місця, бо якщо то їх місце, то воно вже зайнято
+Не повторюйся за іншими, твій шлях не має привести тебе до їх місця, бо якщо то їх місце, то воно вже зайнято.
+Допускайся помилок, виправляй їх.
+Будь що на початку здається важким.
