@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaike\\Desktop\\first_steps_c_sharp\\first_steps_c_sharp.csproj",
+      "projectUniqueName": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Variables and Logical Operators\\first_steps_c_sharp.csproj",
       "projectName": "first_steps_c_sharp",
-      "projectPath": "C:\\Users\\jaike\\Desktop\\first_steps_c_sharp\\first_steps_c_sharp.csproj",
+      "projectPath": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Variables and Logical Operators\\first_steps_c_sharp.csproj",
       "packagesPath": "C:\\Users\\jaike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaike\\Desktop\\first_steps_c_sharp\\obj\\",
+      "outputPath": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Variables and Logical Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaike\\AppData\\Roaming\\NuGet\\NuGet.Config"
